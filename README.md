@@ -29,7 +29,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/yousuf-bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousuf-bhuiyan" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100074015862112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousuf-bhuiyan" height="30" width="40" /></a>
 <a href="https://twitter.com/yousuf-bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousuf-bhuiyan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
@@ -82,7 +82,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/harun181">
+  <a href="https://github.com/yousuf-bhuiyan">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harun181&theme=radical" alt="Harun's GitHub Contribution"/>
   </a>
 </p>
